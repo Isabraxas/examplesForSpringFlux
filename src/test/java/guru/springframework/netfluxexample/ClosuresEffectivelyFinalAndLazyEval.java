@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.stream.Stream;
 
 /**
- * Created by jt on 10/17/17.
+ * Created by jt on 10/17/17.+isvar
  */
 public class ClosuresEffectivelyFinalAndLazyEval {
 
